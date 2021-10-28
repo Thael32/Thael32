@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Thael32
+- 👀 I’m interested in programming in high level languages like PHP and .NET
+- 🌱 I’m currently learning how to improve my object oriented and mvc programming skills
+- 📫 You can reach me at pawelctx at hotmail.com
